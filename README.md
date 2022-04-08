@@ -31,7 +31,7 @@ Users should be able to:
 ![](screenshot.png)
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub/interactiveratingcomponentmain-S1GdpyRX9)
 - Live Site URL: [live site URL](https://neon-sawine-b12f73.netlify.app/)
 
 ### Built with
