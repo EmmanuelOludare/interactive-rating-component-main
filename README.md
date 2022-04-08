@@ -31,8 +31,8 @@ Users should be able to:
 ![](screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://your-solution-url.com)
+- Live Site URL: [live site URL](https://neon-sawine-b12f73.netlify.app/)
 
 ### Built with
 
